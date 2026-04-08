@@ -11,4 +11,4 @@ Este es un proyecto sencillo de una calculadora básica desarrollada en Python, 
 
 1. Clona el repositorio:
    ```bash
-git clone https://github.com/Maria-uip/Mi-Calculadora.git]
+git clone https://github.com/Maria-uip/Mi-Calculadora.git
